@@ -1,3 +1,4 @@
 # odin-recipes
 
-This is a simple recipe project from the Odin course to practice my html.
+This is a simple recipe project from the Odin course to practice our html skills.
+
